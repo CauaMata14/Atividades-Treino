@@ -11,3 +11,9 @@ P{
     color: blueviolet;
 }
 /* 5 - mais um comentario */
+/* 6 - classes */
+.paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
